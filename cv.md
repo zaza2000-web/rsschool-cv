@@ -16,7 +16,7 @@
 ### About me:
 
 ***
-*Hi! As you already know, my name is Zaza. I am originally from Georgia, and I am currently living in France. I am studying frontend development with the help of free courses from **Rolling Scopes**. I hope to become successful in my field and master professions such as **Fullstack Developer**, **Android Developer**, and **Java Developer**.*
+*Hi! As you already know, my name is Zaza. I am originally from Georgia, and I am currently living in France. I am studying frontend development with the help of free courses from **Rolling Scopes**. I hope to become successful in my field and master professions such as **Fullstack Developer**, **Android Developer**, and **Java Developer**.
 ***
 
 #### My skills:
@@ -36,4 +36,3 @@
 + **English** -- Midlle Level
 + **Russian** -- Native speaker
 + **French** -- Novice
-***
