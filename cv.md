@@ -1,15 +1,15 @@
 # Full Name:  **Z**aza **B**adzagua 
 ## Contacts:
 
-***E-mail***: [*i am Here*](zazuka2000badzagua@gmail.com):email: 
+***E-mail***: [Zazuka2000badzagua@gmail.com]
 
 
-***Phone***: *+33 060 411 0098* :telephone_receiver: 
+***Phone***: *+33 060 411 0098* 
 
 
-***Telegram***: [*I am on TG*](https://t.me/None200012):calling: 
+***Telegram***: [*I am on TG*](https://t.me/None200012)
 
-***gitHub***: [*My gitHub*](https://github.com/zaza2000-web) :information_source: 
+***gitHub***: [*My gitHub*](https://github.com/zaza2000-web) 
 
 ***
 
