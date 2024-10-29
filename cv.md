@@ -39,3 +39,31 @@
     * Clone repository
     * switch branch or create new branch
     
+
+```
+function setUserData(name,surName,age,password){
+    this.name = name;
+    this.surName = surName;
+    this.age = age;
+    this.password = password;
+    
+    this.getUserData = () => {
+        return {
+            name,
+            surName,
+            age,
+            password,
+        }
+    }
+
+    
+}
+
+const user = new setUserData("Zaza","Badzagua",24,"12314");
+    user.getUserData();
+
+```
+
+#### Contact:
+
+*
