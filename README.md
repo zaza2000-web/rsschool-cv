@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://github.com/zaza2000-web/rsschool-cv/blob/gh-pages/cv.md
+https://zaza2000-web.github.io/rsschool-cv/cv
