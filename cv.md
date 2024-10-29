@@ -66,4 +66,4 @@ const user = new setUserData("Zaza","Badzagua",24,"12314");
 
 #### Contact:
 
-    * [Linkedin](https://www.linkedin.com/in/zazabadzagua/)
+    * [Linkedin] (https://www.linkedin.com/in/zazabadzagua/)
