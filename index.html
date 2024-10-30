@@ -59,7 +59,25 @@
             </ol>
           </section>
           
-        <section id="code"><code></code></section>
+        <section id="code"><pre><code>
+          function userData(name,age,surName){
+              this.name = name
+              this.age = age
+              this.surName = surName
+              
+            this.getUserData = function(){
+              return {
+                name,
+                age,
+                surName
+              }
+            }
+
+           
+          }
+          const user = new userData("Zaza",23,"Badzaghua")
+          user.getUserData();
+        </code></pre></section>
         <section id="contacts"></section>
     </main>
     <!---->
